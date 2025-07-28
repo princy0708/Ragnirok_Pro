@@ -17,38 +17,7 @@
 
 ---
 
-## 📁 Project Structure
 
-ragnarok_extended/
-│
-├── app.py # Flask web server
-├── requirements.txt # Dependencies
-├── README.md # Project info
-│
-├── templates/ # Web interface (HTML)
-│ ├── index.html
-│ └── results.html
-│
-├── core/ # Simulation modules
-│ └── simulate_attack.py
-│
-├── modules/ # Recon modules, payload tools
-│ └── subdomain_recon.py
-│
-├── config/ # Config settings
-│ └── settings.py
-│
-├── logs/ # Logging engine
-│ └── logger.py
-│
-└── reports/
-└── logs.json # Scan log history
-
-yaml
-Copy
-Edit
-
----
 
 ## 🚀 Getting Started
 
