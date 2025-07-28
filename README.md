@@ -22,7 +22,7 @@
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/ragnarok-pro.git
+git clone https://github.com/princy0708/ragnarok-pro.git
 cd ragnarok-pro
 pip install -r requirements.txt
 python app.py
